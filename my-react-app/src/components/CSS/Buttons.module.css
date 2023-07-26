@@ -1,0 +1,48 @@
+.buttons{
+    display: flex;
+   justify-content: space-between;
+    width: 710px;
+    margin: auto;
+    margin-top: 30px;
+}
+button{
+    width: 200px;
+    height: 58px;
+    flex-shrink: 0;
+    border-radius: 4px;
+border: none;
+}
+.one{
+    border-radius: 4px;
+background: #039;
+color: white;
+color: #FFF;
+text-align: center;
+font-family: Gilroy;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.two{
+    border-radius: 4px;
+background: #F27C0F;
+color: #FFF;
+text-align: center;
+font-family: Gilroy;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.three{
+    border-radius: 4px;
+background: #E5E5E5;
+color: #000;
+text-align: center;
+font-family: Gilroy;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
